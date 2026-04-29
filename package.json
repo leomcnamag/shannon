@@ -69,5 +69,10 @@
   "engines": {
     "node": ">=20.0.0",
     "npm": ">=10.0.0"
+  },
+  "author": "personal fork — learning project",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KeygraphHQ/shannon"
   }
 }
