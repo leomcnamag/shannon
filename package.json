@@ -74,5 +74,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/KeygraphHQ/shannon"
-  }
+  },
+  "notes": "Personal learning fork. Upstream: KeygraphHQ/shannon. Do not publish or deploy publicly."
 }
