@@ -75,5 +75,9 @@
     "type": "git",
     "url": "https://github.com/KeygraphHQ/shannon"
   },
-  "notes": "Personal learning fork. Upstream: KeygraphHQ/shannon. Do not publish or deploy publicly."
+  "notes": "Personal learning fork. Upstream: KeygraphHQ/shannon. Do not publish or deploy publicly.",
+  "learning_log": [
+    "2024-07: Forked to explore AI SDK integration and knowledge graph patterns",
+    "2024-07: Studying Zustand store structure and Prisma schema design"
+  ]
 }
